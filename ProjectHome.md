@@ -1,0 +1,1 @@
+Salambo is an SMB client for PLSQL (Oracle databases). It allows to manage files through shared folders directly in PLSQL thanks to the SMB / CIFS protocol. Compared to native UTL\_FILE package, it allows to give the credential to mount a folder, and also implements the DIR functionality.
